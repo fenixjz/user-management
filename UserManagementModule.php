@@ -12,6 +12,7 @@ class UserManagementModule extends \yii\base\Module
 
 	/**
 	 * If set true, then on registration username will be validated as email
+	 * COLD-FIRE 21.02.2019
 	 *
 	 * @var bool
 	 */
